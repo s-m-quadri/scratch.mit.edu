@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# scratch.mit.edu projects
 
-You can use the [editor on GitHub](https://github.com/s-m-quadri/scratch.mit.edu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. Never Lose Hope - Nasheed by Maher Zain
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do you want to [Proceed to project](https://scratch.mit.edu/projects/627063859) ?
 
-### Markdown
+Note that :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. It Prepared as an assignment of - [CS50](https://cs50.harvard.edu/x/2022/)'s
+Introduction to the intellectual enterprises of computer science and the art of programming.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s-m-quadri/scratch.mit.edu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2. It is based on the [original](https://www.youtube.com/watch?v=kNM7WoSPCPk) nasheed of [Maher Zain](https://en.wikipedia.org/wiki/Maher_Zain) in the album "Thank You Allah - Vocals Only."
