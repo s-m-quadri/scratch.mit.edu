@@ -1,4 +1,4 @@
-# scratch.mit.edu projects
+# Scratch Projects
 
 ## 1. Never Lose Hope - Nasheed by Maher Zain
 
